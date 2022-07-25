@@ -1,4 +1,4 @@
-# alazzydayoff
+# A lazzy day off! produções
 GitHub Pages
 
-Repositório contendo os ficheiros para o website de A lazzy day off! produções.
+Repositório contendo o website de A lazzy day off! produções.
